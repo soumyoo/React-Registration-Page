@@ -1,10 +1,10 @@
 # Login / Sign Up page
 
-[Click here for Live Demo]()
+[Click here for Live Demo](https://soumyoo.github.io/React-Registration-Page/)
 
 <img src="./src/assets/Demo-Pic.png" alt="Demo Image" />
 
-Basic **Login/Signup** page using **React** ans **Tailwind**
+Basic **Login/Sign-Up** page using **React** and **Tailwind**
 
 ---
 
